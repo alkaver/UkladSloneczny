@@ -1,0 +1,6 @@
+Ziemia, 5974.2kg, 365dni, 14.9km
+Mars, 641.9kg, 687dni, 22.8km
+Jowisz, 1898600.8kg, 4333dni, 77.8km
+Saturn, 568516.8kg, 10756dni, 142.7km
+Uran, 86841kg, 30707dni, 287.1km
+Neptun, 102439.6kg, 60223dni, 449.8km
