@@ -14,6 +14,7 @@ Sortowanie - Planety można sortować rosnąco lub malejąco według czterech pa
 Algorytm sortowania użyty w programie to sortowanie kubełkowe.
 
 Wygląd interfejsu graficznego:
+
 ![image](https://github.com/alkaver/UkladSloneczny/assets/107754123/1c7a4d50-bbcb-42bc-8d8b-09f0ad1d336b)
 
 ![image](https://github.com/alkaver/UkladSloneczny/assets/107754123/854d0416-f62e-4864-a24a-026fcc353fdc)
